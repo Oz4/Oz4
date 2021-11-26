@@ -1,4 +1,3 @@
-- Aws Aldarwish
 - Computer Engineer
 - Im interested in Neural Networks, Blockchain development and Virtual Reality. 
 - Javascript, C, python, Solidity
