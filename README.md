@@ -1,5 +1,5 @@
-- Computer Engineer
-- Im interested in Neural Networks, Blockchain development and Virtual Reality. 
-- Javascript, GLSL, C, python, Solidity
-- 📧aowss18@gmail.com
-
+### Computer Engineer
+```jsx
+React | Threejs | Nodejs | Google_clouds | Thegraph | Blockchain_development | On_chain_data_analytics
+```
+> Building on Avalanche 🔺
