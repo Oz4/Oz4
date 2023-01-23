@@ -1,5 +1,4 @@
 ### Computer Engineer
 ```jsx
-React | Threejs | Nodejs | Google_clouds | Thegraph | Blockchain_development
+Everything Typescript
 ```
-> Building on Avalanche 🔺
